@@ -22,3 +22,19 @@ https://github.com/MoyoG/SHEL5K/assets/73123564/1d1baea2-ac59-4d91-b36d-b07c2186
 
 - [Click to download the SHEL5K dataset ](https://data.mendeley.com/datasets/9rcv8mm682) 
 - [Click to download the paper](https://www.mdpi.com/1424-8220/22/6/2315)
+
+# Experimental results
+
+The proposed dataset is randomly divided into training and testing sets. The training set contains a total of 4000 (80%) images while the testing set contains 1000 (20%) images.
+
+**Result of state-of-the-art models on SHEL5K dataset**
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/MoyoG/SHEL5K/assets/73123564/83d9ede8-0b8b-4505-a944-61cc2ae62ff9">
+</p>
+
+**The result of k-fold cross-validation on the SHEL5K dataset using the YOLOR model**
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/MoyoG/SHEL5K/assets/73123564/c99c99b6-44a4-4749-b1dd-95b7a511cec0">
+</p>
+
